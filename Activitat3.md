@@ -30,7 +30,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 4.  Crea un alumne anomenat Cognom_1_alumne.
 5.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
-![image](https://user-images.githubusercontent.com/110727546/205681118-13764074-331b-42b7-b051-38f816f8b931.png)
+
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
