@@ -25,6 +25,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 2. Quins rols poden assignar cada tipus d'usuaris?
 3. Crea tres usuaris:
   - Un Professor anomenat Cognom_1_profe.
+  ![image](https://user-images.githubusercontent.com/114423194/207125498-c72fa8ff-b5ae-4c20-a7a3-f6befe8a9812.png)
   ![image](https://user-images.githubusercontent.com/114423194/207124902-20f88c92-623b-4ee5-b4f3-9684a2be4381.png)
 
   - Un Professor anomenat Cognom_2_profe.
