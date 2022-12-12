@@ -10,8 +10,8 @@ SMX-B MP08
 
 
 ## Índex 
-*Cursos
-*Usuaris
+* Cursos
+* Usuaris
 
 ## Cursos:
 
