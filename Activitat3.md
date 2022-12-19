@@ -48,12 +48,25 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 ![image](https://user-images.githubusercontent.com/114423194/208489962-d0865bb1-bc5d-476c-8b74-7fc983b16d2d.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+
+![image](https://user-images.githubusercontent.com/114423194/208492469-d76e023e-0614-4ea2-b078-d287116fd454.png)
+
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+![image](https://user-images.githubusercontent.com/114423194/208493444-4c17888f-f6cc-4fed-b254-7503f781eb1e.png)
+
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
+![image](https://user-images.githubusercontent.com/114423194/208493484-f4f63681-26b8-49d1-9e31-c7ffed364484.png)
+
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
+
 10. Mostra l'apartat Participants de cada curs.
+
 11. Què són les Cohorts? 
+
 12. Perquè serveixen?
+
 13. Què són els grups?
+
 14. Perquè serveixen?
+
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
