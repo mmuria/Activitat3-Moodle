@@ -61,6 +61,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 ![Selecció_459](https://user-images.githubusercontent.com/114423194/212740550-c10d3fca-271c-42c2-adee-4d617512fc29.png)
 
 10. Mostra l'apartat Participants de cada curs.
+![Selecció_460](https://user-images.githubusercontent.com/114423194/212741106-79aa8738-b6e0-4841-9cdd-6d1c298a5bcb.png)
 
 11. Què són les Cohorts? 
 
